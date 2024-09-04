@@ -1,0 +1,14 @@
+.be{
+background-color: black;
+color: white;
+}
+
+.se{
+    background-color: yellow;
+    }
+
+.se, 
+.be{
+    font-size: 28px;
+    font-family: Helvetica, sans-serif;
+}
